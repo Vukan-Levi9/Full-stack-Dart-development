@@ -1,0 +1,33 @@
+{
+  "@@locale": "en",
+  "appTitle": "Movies app",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "loadingMoviesError": "Loading of movies failed",
+  "loadingMovieError": "Loading of movie failed",
+   "loginTitle": "Login below!",
+   "signInBtnText" : "Sign In",
+   "registerNowText" : "Register Now",
+   "notMemberText" : "Not a member?",
+   "registerTitle" : "Register below!",
+   "signUpBtnText" : "Sign Up",
+   "loginNowText" : "Login Now",
+   "passwordTextWarningSignUp" : "Password must be at least 8 characters long, containing uppercase, lowercase letters and number!",
+   "emailText" : "Email",
+   "passwordText" : "Password",
+   "firstAndLastNameTextWarning" :"Please enter your first and last name!",
+   "firstAndLastNameText" : "First and Last name",
+   "emailTextWarning": "Please enter a valid email!",
+   "memberText" : "I'm a member ",
+   "loginError": "Invalid email or password!",
+   "unknownError": "Unknown error",
+   "signUpEmailException" :"Email is already in use! Try again!",
+   "releaseDate": "Release date",
+   "voteAverage": "Vote average",
+   "voteCount": "Vote count",
+   "genres": "Genres",
+   "runtime": "Runtime",
+   "popularMovies": "Popular movies",
+   "numberOfUsers": "Number of users: "
+}

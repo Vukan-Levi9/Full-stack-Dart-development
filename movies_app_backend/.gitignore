@@ -1,0 +1,12 @@
+.DS_Store
+
+.dart_tool/
+.packages
+pubspec.lock
+
+build/
+.dart_frog
+
+coverage/
+
+pubspec_overrides.yaml
